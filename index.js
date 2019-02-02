@@ -3,4 +3,4 @@ function shout(string) {
 }
 
 
-console.log(function shout('halal munchies'))
+console.log(shout('halal munchies'))
